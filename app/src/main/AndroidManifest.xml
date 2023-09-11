@@ -13,10 +13,10 @@
         android:theme="@style/Theme.UserPrivacyHelper"
         tools:targetApi="31">
         <activity
-            android:name=".MainActivity"
+            android:name="vn.truatss.lib.MainActivity"
             android:exported="false" />
         <activity
-            android:name=".TestLibActivity"
+            android:name="vn.truatss.lib.TestLibActivity"
             android:exported="true"
             android:theme="@style/Theme.UserPrivacyHelper">
             <intent-filter>
