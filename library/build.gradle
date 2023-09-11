@@ -15,7 +15,7 @@ android {
     compileSdk 33
 
     defaultConfig {
-        minSdk 24
+        minSdk 21
         targetSdk 33
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
@@ -52,7 +52,7 @@ publishing {
         maven(MavenPublication) {
             groupId = 'com.github.anhquachngoc92'
             artifactId = 'user-privacy-helper'
-            version = "1.2.0"
+            version = "1.2.3"
             pom {
                 description = 'user privacy helper'
             }
