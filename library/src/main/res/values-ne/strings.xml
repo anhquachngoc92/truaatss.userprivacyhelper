@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="age_confirm_title">उमेर-उपयुक्त विज्ञापनहरू देखाउन, कृपया हामीलाई तपाईंको उमेर बताउनुहोस्।</string>
+    <string name="age_under_13">13 वर्ष मुनि</string>
+    <string name="age_13_to_15">13 र 15 वर्षको बीचमा</string>
+    <string name="age_16_or_older">१६ वर्ष वा सोभन्दा पुरानो</string>
+    <string name="confirm">पुष्टि गर्नुहोस्</string>
+</resources>

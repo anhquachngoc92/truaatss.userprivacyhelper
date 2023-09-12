@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="age_confirm_title">އުމުރާ ގުޅޭ އިޝްތިހާރުތައް ދެއްކުމަށްޓަކައި އުމުރު އަޅުގަނޑުމެންނަށް ކިޔައިދެއްވާށެވެ.</string>
+    <string name="age_under_13">އުމުރުން 13 އަހަރުން ދަށުގެ މީހުންނެވެ</string>
+    <string name="age_13_to_15">އުމުރުން 13 އަހަރާއި 15 އަހަރާ ދެމެދުގެ މީހުންނެވެ</string>
+    <string name="age_16_or_older">އުމުރުން 16 އަހަރުން މަތީގެ މީހުންނެވެ</string>
+    <string name="confirm">ޔަޤީންކުރުން</string>
+</resources>

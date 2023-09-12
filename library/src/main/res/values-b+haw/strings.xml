@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="age_confirm_title">No ka hōʻike ʻana i nā hoʻolaha e pili ana i ka makahiki, e ʻoluʻolu e haʻi mai iā mākou i kou mau makahiki.</string>
+    <string name="age_under_13">Ma lalo o 13 makahiki</string>
+    <string name="age_13_to_15">Ma waena o 13 a me 15 makahiki</string>
+    <string name="age_16_or_older">16 makahiki a ʻoi paha</string>
+    <string name="confirm">E hōʻoia</string>
+</resources>

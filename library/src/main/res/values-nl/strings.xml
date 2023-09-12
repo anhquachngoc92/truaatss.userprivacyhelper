@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="age_confirm_title">Vertel ons uw leeftijd om advertenties weer te geven die geschikt zijn voor uw leeftijd.</string>
+    <string name="age_under_13">Onder de 13 jaar</string>
+    <string name="age_13_to_15">Tussen 13 en 15 jaar oud</string>
+    <string name="age_16_or_older">16 jaar of ouder</string>
+    <string name="confirm">Bevestigen</string>
+</resources>

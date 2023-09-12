@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="age_confirm_title">Upang magpakita ng mga ad na naaangkop sa edad, mangyaring sabihin sa amin ang iyong edad.</string>
+    <string name="age_under_13">Wala pang 13 taong gulang</string>
+    <string name="age_13_to_15">Sa pagitan ng 13 at 15 taong gulang</string>
+    <string name="age_16_or_older">16 taong gulang o mas matanda</string>
+    <string name="confirm">Kumpirmahin</string>
+</resources>

@@ -1,0 +1,6 @@
+1. change version from build.gradle ( ex: version = "1.2.4")
+2. change version from jitpack.yml (ex: Dversion=1.2.4)
+3. change version from pom.xml (ex: 1.2.4)
+4. mở terminal của android studio chạy lênh ./gradlew assembleRelease
+5. copy file lib đã build \library\build\outputs\aar\library-release.aar ra thư mục gốc của project
+6. commit code lên github

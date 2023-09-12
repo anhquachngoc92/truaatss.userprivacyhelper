@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="age_confirm_title">כדי להציג מודעות המתאימות לגיל, אנא ספר לנו את גילך.</string>
+    <string name="age_under_13">מתחת לגיל 13</string>
+    <string name="age_13_to_15">בין 13 ל-15 שנים</string>
+    <string name="age_16_or_older">בן 16 ומעלה</string>
+    <string name="confirm">לְאַשֵׁר</string>
+</resources>

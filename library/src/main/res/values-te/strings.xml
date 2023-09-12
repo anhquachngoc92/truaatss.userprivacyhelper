@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="age_confirm_title">వయస్సుకి తగిన ప్రకటనలను చూపించడానికి, దయచేసి మీ వయస్సుని మాకు తెలియజేయండి.</string>
+    <string name="age_under_13">13 ఏళ్లలోపు</string>
+    <string name="age_13_to_15">13 మరియు 15 సంవత్సరాల మధ్య</string>
+    <string name="age_16_or_older">16 సంవత్సరాలు లేదా అంతకంటే ఎక్కువ వయస్సు గలవారు</string>
+    <string name="confirm">నిర్ధారించండి</string>
+</resources>

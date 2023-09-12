@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="age_confirm_title">Za prikazivanje oglasa primjerenih uzrastu, recite nam svoje godine.</string>
+    <string name="age_under_13">Ispod 13 godina</string>
+    <string name="age_13_to_15">Između 13 i 15 godina</string>
+    <string name="age_16_or_older">16 godina ili više</string>
+    <string name="confirm">Potvrdi</string>
+</resources>

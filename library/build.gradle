@@ -52,7 +52,7 @@ publishing {
         maven(MavenPublication) {
             groupId = 'com.github.anhquachngoc92'
             artifactId = 'user-privacy-helper'
-            version = "1.2.3"
+            version = "1.2.4"
             pom {
                 description = 'user privacy helper'
             }

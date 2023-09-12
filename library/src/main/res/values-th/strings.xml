@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="age_confirm_title">หากต้องการแสดงโฆษณาที่เหมาะสมกับอายุ โปรดแจ้งอายุของคุณให้เราทราบ</string>
+    <string name="age_under_13">อายุต่ำกว่า 13 ปี</string>
+    <string name="age_13_to_15">อายุระหว่าง 13 ถึง 15 ปี</string>
+    <string name="age_16_or_older">อายุ 16 ปีขึ้นไป</string>
+    <string name="confirm">ยืนยัน</string>
+</resources>

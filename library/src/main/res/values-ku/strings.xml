@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="age_confirm_title">Ji bo ku reklamên li gorî temen nîşan bidin, ji kerema xwe temenê xwe ji me re bibêjin.</string>
+    <string name="age_under_13">Di bin 13 salî de</string>
+    <string name="age_13_to_15">Di navbera 13 û 15 salî de</string>
+    <string name="age_16_or_older">16 salî an mezintir</string>
+    <string name="confirm">Tesdîqkirin</string>
+</resources>

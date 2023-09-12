@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="age_confirm_title">Pou montre anons ki apwopriye pou laj, tanpri di nou laj ou.</string>
+    <string name="age_under_13">Ki poko gen 13 zan</string>
+    <string name="age_13_to_15">Ant 13 ak 15 ane fin vye granmoun</string>
+    <string name="age_16_or_older">16 an oswa plis</string>
+    <string name="confirm">Konfime</string>
+</resources>

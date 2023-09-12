@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="age_confirm_title">Untuk menampilkan iklan sesuai usia, harap beri tahu kami usia Anda.</string>
+    <string name="age_under_13">Di bawah 13 tahun</string>
+    <string name="age_13_to_15">Berusia antara 13 dan 15 tahun</string>
+    <string name="age_16_or_older">16 tahun atau lebih</string>
+    <string name="confirm">Mengonfirmasi</string>
+</resources>

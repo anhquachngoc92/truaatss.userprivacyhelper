@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="age_confirm_title">Yaşınıza uygun reklamlar göstermek için lütfen bize yaşınızı bildirin.</string>
+    <string name="age_under_13">13 yaşın altında</string>
+    <string name="age_13_to_15">13 ila 15 yaş arası</string>
+    <string name="age_16_or_older">16 yaşında veya daha büyük</string>
+    <string name="confirm">Onaylamak</string>
+</resources>

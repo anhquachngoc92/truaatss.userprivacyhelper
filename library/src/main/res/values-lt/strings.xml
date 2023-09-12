@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="age_confirm_title">Norėdami rodyti amžių atitinkančius skelbimus, nurodykite savo amžių.</string>
+    <string name="age_under_13">Iki 13 metų</string>
+    <string name="age_13_to_15">Nuo 13 iki 15 metų</string>
+    <string name="age_16_or_older">16 metų ar vyresni</string>
+    <string name="confirm">Patvirtinti</string>
+</resources>

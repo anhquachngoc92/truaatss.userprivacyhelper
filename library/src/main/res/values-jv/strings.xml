@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="age_confirm_title">Kanggo nuduhake iklan sing cocog karo umur, tulung kandhani umur sampeyan.</string>
+    <string name="age_under_13">Ing umur 13 taun</string>
+    <string name="age_13_to_15">Antarane 13 lan 15 taun</string>
+    <string name="age_16_or_older">16 taun utawa luwih</string>
+    <string name="confirm">Konfirmasi</string>
+</resources>

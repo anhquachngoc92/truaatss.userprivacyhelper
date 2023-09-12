@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="age_confirm_title">ເພື່ອສະແດງໂຄສະນາທີ່ເໝາະສົມກັບອາຍຸ, ກະລຸນາບອກພວກເຮົາກ່ຽວກັບອາຍຸຂອງທ່ານ.</string>
+    <string name="age_under_13">ອາຍຸຕ່ຳກວ່າ 13 ປີ</string>
+    <string name="age_13_to_15">ອາຍຸລະຫວ່າງ 13 ຫາ 15 ປີ</string>
+    <string name="age_16_or_older">ອາຍຸ 16 ປີຂຶ້ນໄປ</string>
+    <string name="confirm">ຢືນຢັນ</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="age_confirm_title">要展示适合年龄的广告，请告诉我们您的年龄。</string>
+    <string name="age_under_13">13岁以下</string>
+    <string name="age_13_to_15">13至15岁之间</string>
+    <string name="age_16_or_older">16岁或以上</string>
+    <string name="confirm">确认</string>
+</resources>

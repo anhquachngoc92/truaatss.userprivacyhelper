@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="age_confirm_title">Насанд тохирсон зар харуулахын тулд бидэнд насаа хэлнэ үү.</string>
+    <string name="age_under_13">13 нас хүрээгүй</string>
+    <string name="age_13_to_15">13–15 насны хооронд</string>
+    <string name="age_16_or_older">16 ба түүнээс дээш настай</string>
+    <string name="confirm">Баталгаажуулах</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="age_confirm_title">Per mostrar anuncis adequats a l\'edat, indiqueu-nos la vostra edat.</string>
+    <string name="age_under_13">Menors de 13 anys</string>
+    <string name="age_13_to_15">Entre 13 i 15 anys</string>
+    <string name="age_16_or_older">16 anys o més</string>
+    <string name="confirm">Confirmeu</string>
+</resources>

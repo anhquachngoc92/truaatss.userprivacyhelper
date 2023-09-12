@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="age_confirm_title">Yoshga mos reklamalarni ko\'rsatish uchun bizga yoshingizni ayting.</string>
+    <string name="age_under_13">13 yoshgacha</string>
+    <string name="age_13_to_15">13 yoshdan 15 yoshgacha</string>
+    <string name="age_16_or_older">16 yosh yoki undan katta</string>
+    <string name="confirm">Tasdiqlang</string>
+</resources>

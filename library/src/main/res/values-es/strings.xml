@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="age_confirm_title">Para mostrar anuncios apropiados para su edad, indíquenos su edad.</string>
+    <string name="age_under_13">Menores de 13 años</string>
+    <string name="age_13_to_15">Entre 13 y 15 años</string>
+    <string name="age_16_or_older">16 años o más</string>
+    <string name="confirm">Confirmar</string>
+</resources>

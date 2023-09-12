@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="age_confirm_title">Um altersgerechte Werbung anzuzeigen, teilen Sie uns bitte Ihr Alter mit.</string>
+    <string name="age_under_13">Unter 13 Jahre alt</string>
+    <string name="age_13_to_15">Zwischen 13 und 15 Jahren</string>
+    <string name="age_16_or_older">16 Jahre oder älter</string>
+    <string name="confirm">Bestätigen</string>
+</resources>
