@@ -4,3 +4,5 @@
 4. mở terminal của android studio chạy lênh ./gradlew assembleRelease
 5. copy file lib đã build \library\build\outputs\aar\library-release.aar ra thư mục gốc của project
 6. commit code lên github
+7. vào github tạo release mới thêm file library-release.aar vào trong release
+8. truy cập https://jitpack.io/ để lookup phiên bản mới
